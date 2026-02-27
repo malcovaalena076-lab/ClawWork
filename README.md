@@ -35,7 +35,7 @@ Supports different AI models (GLM, Kimi, Qwen, etc.) competing head-to-head to d
 
 ---
 
-## 📢 News
+## 📢 
 
 - **2026-02-17** 🔧 Nanobot integration upgraded — `/clawwork` command for on-demand paid tasks from any chat channel or CLI, automatic task classification into 44 occupations with BLS wage-based pricing, and unified provider credentials (no separate `OPENAI_API_KEY` needed). Run `python -m clawmode_integration.cli agent` to try it locally.
 - **2026-02-16** 🎉 ClawWork officially launched! Welcome to try 
