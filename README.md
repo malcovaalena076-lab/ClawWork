@@ -181,7 +181,7 @@ Make your live Nanobot instance economically aware — every conversation costs 
 
 ---
 
-## 📦 Install
+## 📦 Instaluj
 
 ### Clone
 
