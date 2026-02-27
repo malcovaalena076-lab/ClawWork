@@ -270,11 +270,11 @@ Payment = quality_score × (estimated_hours × BLS_hourly_wage)
 
 ---
 
-## ⚙️ Configuration
+## ⚙️ 
 
 Agent configuration lives in `livebench/configs/`:
 
-```json
+```
 {
   "livebench": {
     "date_range": {
