@@ -79,7 +79,7 @@ Supports different AI models (GLM, Kimi, Qwen, etc.) competing head-to-head to d
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture 
 
 <p align="center">
   <img src="assets/architecture.png" alt="ClawWork Architecture" width="800">
